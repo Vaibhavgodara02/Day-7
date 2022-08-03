@@ -265,4 +265,4 @@ console.log(rndNum1);
 console.log(rndNum2);
 ```
 
-**Output:** ![2](https://user-images.githubusercontent.com/77887030/178469542-6570d331-c341-4ac3-b789-423af1093b7e.PNG)
+
